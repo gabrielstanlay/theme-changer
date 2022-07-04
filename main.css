@@ -10,7 +10,7 @@ height: 100%;
 }
 
 body {
-background-color: #fafafa;
+/* background-color: #fafafa; unused on update */
 display: flex;
 align-items: center;
 justify-content: center;
@@ -103,6 +103,7 @@ top: 150px;
 left: 50%;
 transform: translateX(-50%);
 }
+
 /* sky day */
 .sky.light {
 background-image: linear-gradient(to top, #fa709a 50%, #fee140 100%);
