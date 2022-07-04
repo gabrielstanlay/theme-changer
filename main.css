@@ -103,7 +103,7 @@ top: 150px;
 left: 50%;
 transform: translateX(-50%);
 }
-/* sidetab contrate dia */
+/* sky day */
 .sky.light {
 background-image: linear-gradient(to top, #fa709a 50%, #fee140 100%);
 }
