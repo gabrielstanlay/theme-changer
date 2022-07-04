@@ -10,17 +10,17 @@ height: 100%;
 }
 
 body {
-/* background-color: #fafafa; unused on update */
+background-color: #131313;
 display: flex;
 align-items: center;
 justify-content: center;
 transition: background 0.2s linear;
 }
 
-/* unused on update
+
 body.light {
-background: #131313;
-}*/
+background: #fafafa;
+}
 
 .checkbox {
 opacity: 0;
